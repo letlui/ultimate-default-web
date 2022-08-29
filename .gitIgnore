@@ -3,6 +3,8 @@
 ![Bb]in/release*
 ![Bb]in/release*/**
 
+.idea
+
 #include the resources folder
 !resources/includes/*
 
