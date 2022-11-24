@@ -1,21 +1,5 @@
 This is a critical message that I'm going to ammend into the previous commit along with this new file.
 
-Commit #2 during squash activity
-
-Commit #3 during squash activity
-
-Commit #4 during squash activity
-
-Commit #5 during squash activity
-
-Commit #6 during squash activity
-
-Commit #7 during squash activity
-
-Commit #8 during squash activity
-
-Commit #9 during squash activity
-
 Commit #14 - Started rebase dev 2 commit 1
 
 Commit #15 - Started rebase dev 2 commit 2
