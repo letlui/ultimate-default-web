@@ -1,0 +1,22 @@
+{
+  "name": "ultimate-default-web",
+  "version": "1.0.0",
+  "description": "This repository is the default web project that I use in some training courses.  If you are taking one of my courses, this is the right place to be for the default web project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letlui/ultimate-default-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letlui/ultimate-default-web/issues"
+  },
+  "homepage": "https://github.com/letlui/ultimate-default-web#readme",
+  "dependencies": {
+    "antd": "^5.0.0"
+  }
+}

@@ -5,6 +5,7 @@
 
 .idea
 
+node_modules
 #include the resources folder
 !resources/includes/*
 
