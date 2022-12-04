@@ -1,1 +1,3 @@
 Commit #1 squashAndMerge
+
+Commit #2 squashAndMerge
