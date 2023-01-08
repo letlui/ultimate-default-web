@@ -11,3 +11,5 @@ Commit 2 Dev1 Feature 1
 Commit from Dev 2 Feature 2
 
 Commit 2 from Dev 2 Feature 2
+
+Commit 3 from Dev 2 Feature 2
