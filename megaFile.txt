@@ -3,3 +3,5 @@ Commit #1 squashAndMerge
 Commit #2 squashAndMerge
 
 Commit #3 squashAndMerge
+
+Commit #4 squashAndMerge
